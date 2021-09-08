@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 import static java.lang.System.out;
 
-/**
- * Hello world!
- *
+/*
+ *  UCF COP3330 Fall 2021 Assignment 1 Solution
+ *  Copyright 2021 first_name last_name
  */
 public class App 
 {
